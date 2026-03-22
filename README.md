@@ -18,3 +18,8 @@ This repository contains fundamental text preprocessing techniques for Natural L
 
 ## 💻 How to Run
 Simply run the Python file to see the step-by-step console outputs of the cleaned text examples.
+
+## 🖥️ Terminal Output
+Here is the result of the text preprocessing script:
+
+![Terminal Output](terminal_output.png)
